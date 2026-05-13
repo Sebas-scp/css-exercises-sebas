@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+.odds,
+.number3{
+    background-color:rgba(207, 79, 79, 0.499);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#number2{
+    color: rgb(56, 56, 225);
+    font-size: 36px;
+}
+
+.number3{
+    font-size: 24px;
+}
+
+#number4{
+    background-color: rgb(99, 223, 99);
+    font-size: 24px;
+    font-weight: bold;
+}
